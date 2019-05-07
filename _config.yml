@@ -8,7 +8,7 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
+    hero_title: ПрофиДент
     hero_description: Клиника, которой доверяют.
 
 # Contact form
