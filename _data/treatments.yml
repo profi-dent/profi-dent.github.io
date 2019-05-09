@@ -1,23 +1,23 @@
-- icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
 - icon: icon-diamond
-  title: Cosmetic Dentistry
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Профессиональная гигиена
+  description: Механическое удаление зубных отложений с поверхности зубов и из-под десны. Чистка ультразвуком от зубного камня, удаление налета аппаратом Air Flow, полировка поверхности зуба, а также фторирование зубов.
 
-- icon: icon-flask
-  title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+- icon: icon-hospital-o
+  title: Керамические вкладки и виниры
+  description: Чудо белоснежной улыбки – это не только правильный уход или отбеливание. Ровные зубы, как у звёзд голливудского кино, часто создаются благодаря установке виниров.
 
-- icon: icon-globe
-  title: Dentures
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: icon-user-md
+  title: Ортопедия
+  description: Ортопеды-стоматологи в своей практике используют огромное количество ортопедических материалов и субстанций, которые помогают восстанавливать целостность зубного ряда у пациентов.
 
-- icon: icon-ambulance
-  title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: icon-medkit
+  title: Имплантация
+  description: Зубные имплантаты представляют собой привлекательное и удобное решение для людей, утративших зубы вследствие кариеса или по другой причине. Они обеспечивают замену постоянных зубов, при этом выглядят и ощущаются, как настоящие зубы.
 
-- icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: icon-leaf
+  title: Эстетическая реставрация
+  description: В современной жизни красивая улыбка – это намного больше, чем эстетика и привлекательность. Но далеко не всем природа подарила крепкие и красивые зубы. Современная стоматология имеет очень действенный инструмент помощи – эстетическая реставрация.
+
+- icon: icon-group
+  title: Ортодонтия для взрослых
+  description: Диагностика, лечение и профилактика аномалий зубного ряда с помощью брекет-систем, которые представляют собой фиксированные или съемные конструкции.
