@@ -1,34 +1,19 @@
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Гаджимамедов А. Р.
+  image: team1.jpg
+  email: profident79@mail.ru
+  phone: + 7 909 164 29 15
 
-- name: Troy Barnes 
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Лебедева-Чепурнова А. В. 
+  image: team3.jpg
+  email: profident79@mail.ru
+  phone: + 7 909 164 29 15
 
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Фабио
+  image: team4.jpg
+  email: profident79@mail.ru
+  phone: + 7 909 164 29 15
 
-- name: Jeff Winger
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Troy Barnes
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Пилипчук О. Б.
+  image: team2.jpg
+  email: profident79@mail.ru
+  phone: + 7 909 164 29 15
