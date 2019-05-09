@@ -73,7 +73,8 @@ layout: default
         <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
         <h3>Адрес</h3>
             <p>
-                {{ site.contact.address }}
+                <!-- {{ site.contact.address }} -->
+                г. Москва, ул. Святоозёрская, д. 14, <br> помещение 12
             </p>
     </div>
 </div>
@@ -173,7 +174,7 @@ layout: default
 <!-- End Our team -->
 
 <!-- Start Testimonials -->
-<div id="testimonials" class="testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
+<!-- <div id="testimonials" class="testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
     <div class="overlay-container">
         <div class="overlay"></div>
         <div class="container-fluid">
@@ -193,7 +194,7 @@ layout: default
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Testimonials -->
 
 <!-- Start Gallery -->
@@ -216,5 +217,8 @@ layout: default
 <!-- End Gallery -->
 
 <!-- Start Map -->
-<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
+<!-- <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div> -->
+<div id="location" class="map">
+    <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A4766c6f8c0677da2f38d5176c144fd5b7cf71a1dd2f5f679c1ea2d14db09f13a&amp;width=100%25&amp;height=450&amp;lang=ru_RU&amp;scroll=true"></script>
+</div>
 <!-- End Map -->

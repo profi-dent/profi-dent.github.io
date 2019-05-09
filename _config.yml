@@ -31,10 +31,10 @@ testimonials:
     testimonials_img: parallax.jpg
 
 # Map
-map:
-    zoom: 17
-    address: г. Москва, ул. Святоозёрская, д. 14, помещение 12
-    address_details: svg/min/logo.svg
+# map:
+#     zoom: 17
+#     address: г. Москва, ул. Святоозёрская, д. 14, помещение 12
+#     address_details: svg/min/logo.svg
 
 # Social settings
 facebook: http://facebook.com
